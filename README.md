@@ -79,9 +79,8 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Канбан-доска (лр 2)</strong>
-![Канбан-доска]
-(<a href="https://sun9-west.userapi.com/sun9-66/s/v1/ig2/2mora9rZxKIVzWRZEQ9CPnJ86lawvuuxxWffPobB3MmGtdRebgige5waewuhS22n5LKu4C39pbKin0rC9Q6u6TI6.jpg?size=1054x570&amp;quality=96&amp;type=album" rel="nofollow">https://sun9-west.userapi.com/sun9-66/s/v1/ig2/2mora9rZxKIVzWRZEQ9CPnJ86lawvuuxxWffPobB3MmGtdRebgige5waewuhS22n5LKu4C39pbKin0rC9Q6u6TI6.jpg?size=1054x570&amp;quality=96&amp;type=album</a>)</p>
+<p><strong>Канбан-доска (лр 2):</strong>
+<a href="https://hilya113377.kaiten.ru/space/92493" rel="nofollow">https://hilya113377.kaiten.ru/space/92493</a></p>
 <p><strong>1.2.4 Оценка трудозатрат</strong></p>
 <table role="table">
 <thead>
@@ -443,9 +442,9 @@
 Получить сообщение о том, что запись прошла успешно</p>
 <h1><a id="user-content-21-проектирование-веб-сайта" class="anchor" aria-hidden="true" href="#21-проектирование-веб-сайта"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2.1. Проектирование веб-сайта</h1>
 <p><strong>Создание диаграммы IDEF0</strong></p>
-<p><img src="https://user-images.githubusercontent.com/90955398/196733945-46652fd6-6443-4147-92df-e50f2709d637.png" alt="image"></p>
-<p><strong>Создание диаграммы UML Activity</strong></p>
 <p><img src="./UjKlZGBJT4I.jpg" alt="image"></p>
+<p><strong>Создание диаграммы UML Activity</strong></p>
+<p><img src="./oBdluk5IDMM.jpg" alt="image"></p>
 <h1><a id="user-content-22-внешний-вид-веб-сайта" class="anchor" aria-hidden="true" href="#22-внешний-вид-веб-сайта"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2.2. Внешний вид веб-сайта</h1>
 <p><strong>Главная страница</strong>
 <img src="https://user-images.githubusercontent.com/90955398/196725596-94f05229-4e4c-4ef1-9a93-eadf1fa3b7be.png" alt="image"></p>
