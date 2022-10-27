@@ -409,7 +409,7 @@
 </tbody>
 </table>
 <p><strong>Канбан-доска по результатам выполнения ЛР1</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196714534-61401064-0b32-42af-a46b-7972770368ef.png" alt="image"></p>
+<img src="./pflljVQRkZs.jpg" alt="image"></p>
 <h1><a id="user-content-2-выполнение-лр2" class="anchor" aria-hidden="true" href="#2-выполнение-лр2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2. Выполнение ЛР2</h1>
 <p><strong>Создание тестов для валидация даты при бронировании консультации.</strong></p>
 <p>Тест не выдающий ошибку при выборе даты консультации, соответствующей валидной дате (рабочее время клиники, можно выбирать только дату, которая ещё не наступила).</p>
@@ -446,18 +446,18 @@
 <p><strong>Создание диаграммы UML Activity</strong></p>
 <p><img src="./oBdluk5IDMM.jpg" alt="image"></p>
 <h1><a id="user-content-22-внешний-вид-веб-сайта" class="anchor" aria-hidden="true" href="#22-внешний-вид-веб-сайта"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2.2. Внешний вид веб-сайта</h1>
-<p><strong>Главная страница</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196725596-94f05229-4e4c-4ef1-9a93-eadf1fa3b7be.png" alt="image"></p>
-<p><strong>Выбор сервиса</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196725662-a20e37e8-f8b3-4bff-8aca-8aeeb3b53d61.png" alt="image"></p>
-<p><strong>Выбор даты</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196725716-e53e7744-e4f1-4f6e-85af-414713e30669.png" alt="image"></p>
-<p><strong>Выбор времени</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196725744-7818c09f-bb31-40de-922b-52f8aaa5e827.png" alt="image"></p>
-<p><strong>Запись на прием</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196725870-d93cf5d0-9fd4-4ded-a150-347964b4a3fc.png" alt="image"></p>
-<p><strong>Уведомление об успешной записи на прием</strong>
-<img src="https://user-images.githubusercontent.com/90955398/196725911-e6d671e5-281a-4c3e-87ac-d1c1b65b57ff.png" alt="image"></p>
+<p><strong>Шапка сайта</strong>
+<img src="./123.png" alt="image"></p>
+<p><strong>Реклама качества</strong>
+<img src="./124.png" alt="image"></p>
+<p><strong>Основной ассортимент услуг</strong>
+<img src="./212.png" alt="image"></p>
+<p><strong>Дополнительные услуги</strong>
+<img src="./125.png" alt="image"></p>
+<p><strong>Примеры и отзывы</strong>
+<img src="./126.png" alt="image"></p>
+<p><strong>Форма обратной связи</strong>
+<img src="./127.png" alt="image"></p>
 <h1><a id="user-content-23-диаграмма-деятельности" class="anchor" aria-hidden="true" href="#23-диаграмма-деятельности"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2.3. Диаграмма деятельности</h1>
 <p><strong>2.3.1. Основной поток</strong></p>
 <table role="table">
