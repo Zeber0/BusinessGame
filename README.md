@@ -14,22 +14,22 @@
 <tbody>
 <tr>
 <td>S (конкретность)</td>
-<td align="center">Сформированные записи услуг в БД</td>
+<td align="center">Запись на реставрацию</td>
 <td align="right">+ или -</td>
 </tr>
 <tr>
 <td>М (измеримость)</td>
-<td align="center">Корректность структуры записей услуг в БД</td>
+<td align="center">Количество записей</td>
 <td align="right">+ или -</td>
 </tr>
 <tr>
 <td>А (достижимость)</td>
-<td align="center">Команда проекта/P.I.V.O</td>
+<td align="center">Команда проекта, средства разработки</td>
 <td align="right">+ или -</td>
 </tr>
 <tr>
 <td>R (уместность)</td>
-<td align="center">Ограничение: 10 часов на каждого участника команды</td>
+<td align="center">Инструментальное ПО</td>
 <td align="right">+ или -</td>
 </tr>
 <tr>
