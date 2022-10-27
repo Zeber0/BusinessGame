@@ -553,9 +553,9 @@
 </tbody>
 </table>
 <p><strong>Рис.1.1 Оповещение об отправке данных</strong>
-<img src="./444.png" alt="image"></p>
+<br><img src="./444.png" alt="image"></p></br?>
 <p><strong>Рис.1.2 Пришедшее письмо с контактными данными</strong>
-<img src="./555.png" alt="image"></p>
+<br>?<img src="./555.png" alt="image"></p></br?>
 <p><strong>Канбан-доска по результатам выполнения ЛР2</strong>
 <img src="./T_4zupTc4j4.jpg" alt="image"></p>
 </div>
